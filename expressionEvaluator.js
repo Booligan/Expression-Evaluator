@@ -25,4 +25,3 @@ calculator = (input) => {
    return arithmetic[operator](expressionOne, expressionTwo);
 }
 
-console.log(calculator("+ 1 2"))
